@@ -1,0 +1,37 @@
+.container {
+  width: 453px;
+  margin: auto;
+  margin-top: 192px;
+  background: #ffffff;
+  border-radius: 15px;
+  padding: 24px 0px;
+}
+
+.add {
+  display: flex;
+  width: 415px;
+  height: 60px;
+  background: #00a3ff;
+  box-shadow: 0px 3px 8px rgba(54, 54, 54, 0.25);
+  border-radius: 5px;
+  margin: auto;
+  align-items: center;
+}
+
+.add > .input {
+  flex-grow: 1;
+}
+
+.add > .input > input {
+  width: 98%;
+  padding: 12px;
+  border: none;
+  outline: none;
+}
+
+.add > button {
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+}
