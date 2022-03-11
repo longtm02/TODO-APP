@@ -1,0 +1,19 @@
+.menu {
+  width: 274px;
+  height: 60px;
+  background: #ffffff;
+  border-radius: 7px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 12px;
+}
+
+.menu > button {
+  width: 14.66px;
+  height: 14.66px;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 2px 4px;
+}

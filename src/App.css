@@ -7,3 +7,10 @@
 body {
   background: linear-gradient(112.4deg, #44BCFF 0%, rgba(250, 29, 241, 0) 130.13%);
 }
+
+.ant-dropdown-link {
+  position: absolute;
+  top: 13px;
+  right: 14px;
+  cursor: pointer;
+}
